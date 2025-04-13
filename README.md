@@ -74,8 +74,3 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## **License**
 Distributed under the MIT License. See `LICENSE` for more information.
-
-## **Contact**
-Ankit Sharma - ankitsharma7805@gmail.com
-
-Project Link: [https://github.com/ankitsharma38/voice-attendance-system](https://github.com/ankitsharma38/voice-attendance-system)
